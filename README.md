@@ -5,11 +5,11 @@
 
 View listing each adddressbook and contact. If the current user does not have an addressbook, one can be created with a post request.
 
-/AddressBook/<Address or User id>/
+/AddressBook/\<Address or User id\>/
 
 View listing each contact within a users address book. New contacts can be created with a post request.
 
-/AddressBook/<Address or User id>/\<contact id\>/
+/AddressBook/\<Address or User id\>/\<contact id\>/
 
 View detailing a specific contact. Contact can be updated or deleted with a put or delete request.
 
