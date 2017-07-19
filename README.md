@@ -9,7 +9,7 @@ View listing each adddressbook and contact. If the current user does not have an
 
 View listing each contact within a users address book. New contacts can be created with a post request.
 
-/AddressBook/<Address/User id>/<contact id>
+/AddressBook/<Address/User id>/\<contact id\>/
 
 View detailing a specific contact. Contact can be updated or deleted with a put or delete request.
 
