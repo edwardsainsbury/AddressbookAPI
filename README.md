@@ -3,7 +3,7 @@
 
 /AddressBook/
 
-View learning each adddressbook and contact. If the current user does not have an addressbook, one can be created with a post request.
+View listing each adddressbook and contact. If the current user does not have an addressbook, one can be created with a post request.
 
 /AddressBook/<Address/User id>/
 
